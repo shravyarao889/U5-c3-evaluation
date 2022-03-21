@@ -1,15 +1,14 @@
-import { useState } from 'react'
-import logo from './logo.svg'
-import './App.css'
+import { Navbar } from "./Components/Navbar/Navbar";
+import { AllRoutes } from "./Routes/Routes";
+
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <div className="App">
-      <h1>Hello world</h1>
+     
+      <AllRoutes />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
