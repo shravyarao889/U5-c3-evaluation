@@ -2,8 +2,8 @@
     "books":[
         {
             "id":1,
-            "title":"Bookh1",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"History1",
+            "imageUrl":"https://m.media-amazon.com/images/I/51WMIz-aCtL.jpg",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"
@@ -15,8 +15,8 @@
         },
         {
             "id":2,
-            "title":"Bookh2",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"History2",
+            "imageUrl":"https://m.media-amazon.com/images/I/51WMIz-aCtL.jpg",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"
@@ -28,8 +28,8 @@
         },
         {
             "id":3,
-            "title":"Bookh3",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"History3",
+            "imageUrl":"https://m.media-amazon.com/images/I/51WMIz-aCtL.jpg",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"
@@ -41,8 +41,8 @@
         },
         {
             "id":4,
-            "title":"Mys1",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"Mystery1",
+            "imageUrl":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1568230851-51MlxNgCsyL.jpg",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"
@@ -54,8 +54,8 @@
         },
         {
             "id":5,
-            "title":"Mys2",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"Mystery2",
+            "imageUrl":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1568230851-51MlxNgCsyL.jpg",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"
@@ -67,8 +67,8 @@
         },
         {
             "id":6,
-            "title":"Mys3",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"Mystery3",
+            "imageUrl":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1568230851-51MlxNgCsyL.jpg",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"
@@ -80,8 +80,8 @@
         },
         {
             "id":7,
-            "title":"Myth1",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"Mythology1",
+            "imageUrl":"https://prodimage.images-bn.com/pimages/9781546553519_p0_v1_s550x406.jpg",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"
@@ -93,8 +93,8 @@
         },
         {
             "id":8,
-            "title":"Myth2",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"Mythology2",
+            "imageUrl":"https://prodimage.images-bn.com/pimages/9781546553519_p0_v1_s550x406.jpg",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"
@@ -106,8 +106,8 @@
         },
         {
             "id":9,
-            "title":"Myth3",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"Mythology3",
+            "imageUrl":"https://prodimage.images-bn.com/pimages/9781546553519_p0_v1_s550x406.jpg",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"
@@ -119,8 +119,8 @@
         },
         {
             "id":10,
-            "title":"tech1",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"technology1",
+            "imageUrl":"https://images.penguinrandomhouse.com/cover/9780143120179",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"
@@ -132,8 +132,8 @@
         },
         {
             "id":11,
-            "title":"tech2",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"technology2",
+            "imageUrl":"https://images.penguinrandomhouse.com/cover/9780143120179",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"
@@ -145,8 +145,8 @@
         },
         {
             "id":12,
-            "title":"tech3",
-            "imageUrl":"https://blogs-images.forbes.com/quickerbettertech/files/2019/06/The-Shadow-King.jpg?width=960",
+            "title":"technology3",
+            "imageUrl":"https://images.penguinrandomhouse.com/cover/9780143120179",
             "description": "Book desc",
             "reviews":[
                 "review1", "review2"

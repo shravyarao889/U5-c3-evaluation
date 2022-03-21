@@ -19,7 +19,7 @@ export const Home = () => {
 
   return (
     <div className="homeContainer">
-      <h2 style={{ textAlign: "center" }}>Home</h2>
+      <h2 style={{ textAlign: "center" }}>Library Management</h2>
       <SortAndFilterButtons
         handleSort={
           "give handleSort function to this component, that sorts books"
